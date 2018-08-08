@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ImportDriveworksControls", "ImportDriveworksControls\ImportDriveworksControls.dtproj", "{C12DA28F-A72E-46A0-9007-EB2C78178B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12DA28F-A72E-46A0-9007-EB2C78178B5D}.Development|Default.ActiveCfg = Development
+		{C12DA28F-A72E-46A0-9007-EB2C78178B5D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942E3207-0A2F-41FF-902F-D1757F5E3AC4}
+	EndGlobalSection
+EndGlobal
